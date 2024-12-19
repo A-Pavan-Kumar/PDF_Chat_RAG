@@ -1,10 +1,10 @@
 # PDF_Chat_RAG
 ## TASK__1
 
-This directory contains the code and configuration for completing Task 1. There are two main files:
+This directory contains the 2 Solutions for completing Task 1. There are two main files:
 
 * **RAG.ipynb** (Colab notebook): This notebook outlines the workflow for Task 1. It likely includes steps like data preparation, model selection, and training.
-* **task_1_config.json** (Langflow module): This JSON file defines the configuration for a Langflow flow designed to complete Task 1. It likely specifies the components used in the flow, their connections, and the parameters for each component. 
+* **Vector Store RAG.json** (Langflow module): This JSON file defines the configuration for a Langflow flow designed to complete Task 1. It likely specifies the components used in the flow, their connections, and the parameters for each component. 
 
 The Langflow flow likely utilizes various components for:
 
