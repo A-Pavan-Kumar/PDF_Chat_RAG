@@ -14,3 +14,4 @@ The Langflow flow likely utilizes various components for:
   * **Text Parsing:** A component might be responsible for parsing the data into text format.
   * **Context & Question Passing:** This step likely involves passing the combined context and question to the Google AI LLM model.
   * **Google AI LLM as LLM Model:** This Langflow uses Google gemini-1.5-pro LLM model for generating the final response.
+  * **IJSREM-Early detection of Alzheimer’s Disease using Deep Learning** used for Embedding the information and Prompted to get the information from document as Needed.
